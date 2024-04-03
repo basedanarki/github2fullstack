@@ -20,8 +20,8 @@ hi i'm @basedanarki and i refactored this. no matter what's in your target codeb
 """Check if the file is a Python, HTML, CSS, JavaScript, TypeScript, Svelte, or Rust file."""
 
 
-'''
+```
 python github2frontend.py https://github.com/shadcn-ui/ui
-'''
+```
 
 '''generically useful customization point'''
