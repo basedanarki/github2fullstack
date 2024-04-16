@@ -29,5 +29,6 @@ python github2fullstack.py https://github.com/PostHog/posthog
 ![WICKED THE TWITCH MEME BTTV EMOJI](https://media.tenor.com/it_JJrYID9wAAAAi/twitch-wicked.gif)
 
 ```
-github2fullstack.py is at a generically accessible and useful customization point (add your filetypes, excludes, whatever)
+github2fullstack.py is at a generically accessible and useful customization point
+(add your filetypes, excludes, whatever)
 ```
