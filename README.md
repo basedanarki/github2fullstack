@@ -1,3 +1,25 @@
+## (7/26/24) just use [code2prompt](https://github.com/raphaelmansuy/code2prompt/) it's so much better, dude. jeeesh it's great. 
+
+### copy/paste the code2prompt readme to your sota coder llm with your codebase context and it'll compose an ideal terminal command for you --don't let it use gitignore just don't, be literal, you're welcome. 
+
+#### tell it what you don't need, or code it yourself '--exclude stuff'
+
+#### these single-file codebases as md files are the best thing ever to include in Claude projects, @file link to continue dot dev, whatever.
+
+#### yeah i'm wrecking this readme but trust me on the value here ok this one, is huge
+
+#### you can use the 'generate readme' template to standardize readmes across ALL codebases you use. mess with the template if you want.
+
+#### i love this, and use it to standardize the libraries i want to understand quickly myself to be understood for nuanced implementation by claude
+
+#### [-Anarki](https://x.com/basedanarki)
+
+#### p.s. [continue dot dev](https://github.com/continuedev/continue) > github copilot. testing [Aider](https://github.com/paul-gauthier/aider) a little later today for core workflow adoption: agentic pair programming. LFG!
+
+#### alright here's my old irrelevant garbage for posterity:
+--- 
+
+
 This is mainly for talking to chatbots that have huge context but don't automatically download code from github. 
 
 example use:
